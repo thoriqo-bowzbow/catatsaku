@@ -1,0 +1,6 @@
+{
+  "name": "CatatSaku: Keuangan & Spreadsheet Sync",
+  "description": "Sistem pencatatan keuangan pintar terintegrasi langsung dengan Google Sheets, Google Drive bertenaga visual analisis interaktif, real-time balance alerts, simulasi integrasi bank, ekspor PDF/CSV, serta keamanan biometrik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
